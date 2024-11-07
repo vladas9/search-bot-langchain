@@ -5,7 +5,7 @@ A robust, interactive chatbot application powered by [Streamlit](https://streaml
 ## Features
 
 - **Real-time Chat Interface**
-- **Modular Design for Customization**
+- **Integrated Search Capability for Enhanced Responses**
 - **Scalable and Easy to Deploy**
 
 ## Getting Started
