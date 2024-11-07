@@ -32,6 +32,7 @@ agent_chain = initialize_agent(
     verbose=True,
     memory=memory,
     handle_parsing_errors=True,
+    stream=True,
 )
 
 if __name__ == "__main__":
