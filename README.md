@@ -12,6 +12,16 @@ A robust, interactive chatbot application powered by [Streamlit](https://streaml
 
 ### Building and Running the Project
 
+### Prerequisites
+
+Ensure you have a `.env` file in the project root with the following content:
+
+```env
+GROQ_API_KEY=your_api_key_here
+```
+
+Replace `your_api_key_here` with your actual API key.
+
 #### With Docker
 
 1. **Build the Docker image**:
